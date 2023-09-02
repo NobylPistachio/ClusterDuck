@@ -1,0 +1,15 @@
+Everypart in the Calalog is organized by what part it is it's rarity and the number it is in that list.
+
+rarity:
+    "_"-    "Common"
+    "R"-    "Rare"
+    "E"-    "Epic"
+    "L"-    "Legendary"
+    "X"-    "Exotic"
+    "C"-    "Cursed"
+
+part:
+    "H"-    "Head"
+    "B"-    "Body"
+    "W"-    "Wing"
+
